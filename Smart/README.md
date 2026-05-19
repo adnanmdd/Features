@@ -18,7 +18,7 @@ The cooling system turns <strong>ON</strong> only when one condition is high and
 <h3>Outcome of the Project</h3>
 
 <p>
-The <strong>smart cooling system</strong> intelligently decides when to turn the cooling mechanism <strong>ON</strong> or <strong>OFF<strong> based on the conditions. This improves <strong>automation</strong>, <strong>energy efficiency</strong>, and
+The <strong>smart cooling system</strong> intelligently decides when to turn the cooling mechanism <strong>ON</strong> or <strong>OFF</strong> based on the conditions. This improves <strong>automation</strong>, <strong>energy efficiency</strong>, and
 decision-making accuracy.
 </p>
 
