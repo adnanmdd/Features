@@ -8,7 +8,7 @@
 </p>
 
 <p>
-    Machine Learning algorithms generally work with numerical data. However, real-world datasets often contain categorical values such as <strong>Preferred OS</strong>.One-Hot Encoding converts these categorical values into numerical vectors so they can be processed by machine learning models.
+    Machine Learning algorithms generally work with numerical data. However, real-world datasets often contain categorical values such as <strong>Preferred OS</strong>. One-Hot Encoding converts these categorical values into numerical vectors so they can be processed by machine learning models.
 </p>
 
 <h3>Applications of One-Hot Encoding</h3>
