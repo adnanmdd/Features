@@ -6,5 +6,5 @@
 </p>
 
 <p>
-    <strong>For example</strong>, if the length and width of a rectangular garden increase each season, the total area can be modeled using polynomial equations.<strong>Factoring</strong> these equations makes it easier to simplify calculations, identify growth patterns, and estimate future garden sizes.
+    <strong>For example</strong>, if the length and width of a rectangular garden increase each season, the total area can be modeled using polynomial equations. <strong>Factoring</strong> these equations makes it easier to simplify calculations, identify growth patterns, and estimate future garden sizes.
 </p>
